@@ -9,8 +9,8 @@ function daysOfYear(year){
 				return 366;
 			}
 		}
-		else{
+	}
+	else{
 			return 365;
 		}
-	}
 }
